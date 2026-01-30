@@ -1,5 +1,5 @@
-import backgroundImage from "figma:asset/70a70123e8e085d363282bc5fe065d72952f55ee.png";
-import remixImage from "figma:asset/e32a73c097e216d02f470d8fc2e0b7dcef563692.png";
+import backgroundImage from "../assets/70a70123e8e085d363282bc5fe065d72952f55ee.png";
+import remixImage from "../assets/e32a73c097e216d02f470d8fc2e0b7dcef563692.png";
 import { Eye, MessageCircle, Shield } from 'lucide-react';
 import { MissionSection } from "@/app/components/mission-section";
 import { UserStorySection } from "@/app/components/user-story-section";
